@@ -1,0 +1,5 @@
+# list timezones
+timedatectl list-timezones
+
+# set timezone
+timedatectl set-timezone your_time_zone
