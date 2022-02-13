@@ -1,2 +1,6 @@
+# should be installed package net-tools
+apt install net-tools
+
 #
 ifconfig
+
