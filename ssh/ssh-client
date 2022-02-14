@@ -1,0 +1,13 @@
+cd ~/.ssh
+
+ssh-keygen -t rsa
+
+*.pub - public key
+
+vim config
+
+host vs
+	hostname 192.168.0.1
+	user root
+	IdentityFile /etc/file.pem
+	
