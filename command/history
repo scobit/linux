@@ -1,0 +1,9 @@
+# show histroty
+history
+
+# last 10 commands
+history 10
+
+# history stored in 
+~/.bash_history
+
