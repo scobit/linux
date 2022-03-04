@@ -1,0 +1,28 @@
+# help 
+man sudo_root
+
+# get an interactive root shell
+sudo -i
+
+# add user to group sudo
+sudo adduser username sudo
+
+# Sudo adds a log entry of the command(s) run 
+cat /var/log/auth.log
+
+# To enable the root account
+sudo passwd root
+
+# become root, type root password
+sudo su
+
+# become someuser
+sudo - someuser
+
+# to disable sudo access to members of the sudo group comment out the line
+visudo
+#%sudo  ALL=(ALL) ALL
+
+# using sudo with pipe
+sudo ls > /root/somefile # will no work
+ls | sudo tee /root/somefile # working
