@@ -1,0 +1,8 @@
+cp - means copy
+
+# copy directories recursively
+copy -R
+copy -r
+copy --recursive
+
+
