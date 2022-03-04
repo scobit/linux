@@ -1,1 +1,16 @@
 cd - means change directory
+
+# go to the upper directory
+cd ..
+
+# go to the previous directory
+cd -
+
+# go to the uper directory twice
+cd ../..
+
+# go to home directory
+cd 
+
+# go to home directory
+cd ~
