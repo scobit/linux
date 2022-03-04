@@ -1,0 +1,6 @@
+# show all groups
+groups
+
+# show groups of user
+groups user
+
