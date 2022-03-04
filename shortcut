@@ -1,0 +1,11 @@
+# paste into terminal
+ctrl + shift + v
+
+# copy from terminal
+ctrl + shift + c
+
+# search history
+ctrl + r
+
+# stop current command
+ctrl + c
