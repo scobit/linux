@@ -1,0 +1,24 @@
+chmod -x file
+chmod a-x file
+
+chmod g-w file
+
+chmod u-w file
+chmod u+w file
+
+chmod o-w file
+
+chmod g=rwx file
+chmod g=rw- file
+chmod g=r-- file
+
+0 no permission ---
+1 execute --x
+2 write -w-
+3 execute + write -wx
+4 read r--
+5 read + execute r-x
+6 read + write rw-
+7 read + write + execute rwx
+
+chmod 777 file
