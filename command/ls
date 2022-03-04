@@ -1,1 +1,14 @@
 ls - means list
+
+# do not ignore entries starting with .
+ls -a
+ls --all
+
+# do not list implied . and ..
+ls -A
+ls --almost-all
+
+# list subdirectories recursively
+ls -R
+ls --recursive
+
