@@ -1,0 +1,8 @@
+chown means change ownership
+
+# change ownership of file
+chown username:groupname file
+
+# change ownership of file only for user
+chown username file
+
