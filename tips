@@ -1,2 +1,17 @@
 user arrow kyes
 use tab
+
+
+|
+
+redirection 
+
+>
+
+append text to the end 
+>>
+
+
+
+command one by one
+clear; sleep 1; echo "hi"
