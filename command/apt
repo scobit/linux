@@ -1,0 +1,4 @@
+apt means advanced package tool
+
+# search package
+apt search PackageName
