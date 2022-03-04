@@ -1,4 +1,6 @@
-# become root (type root password)
+su - means switch user
+
+# login as root (type root password)
 su -
 
 # become a user
