@@ -1,0 +1,17 @@
+shebang
+#!/bin/bash
+echo "something"
+
+because of the first 2 characters #!
+# in musical notation alsso called sharp
+! also called bang
+
+shebang became a shortening of sharp-bang
+
+
+./script.sh
+
+bash script.sh
+
+
+chmod u+x script.sh
