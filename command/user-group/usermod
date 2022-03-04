@@ -1,0 +1,8 @@
+# add user to group
+usermod -g devops tom
+
+# override list
+usermod -G admin,devops tom
+
+# add to group and do not override
+usermod -aG admin tom 
