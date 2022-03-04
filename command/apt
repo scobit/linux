@@ -2,3 +2,15 @@ apt means advanced package tool
 
 # search package
 apt search PackageName
+
+# install package
+apt install package
+
+# install several packages
+apt install package1 package2 package3
+
+# delete package
+apt remove package
+
+# update package index
+apt update
