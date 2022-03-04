@@ -1,0 +1,14 @@
+rm - means remove
+
+# remove file 
+rm file.txt
+
+# remove directories and their contents recursively
+rm -r /home/user/somedir
+rm -R /home/user/somedir
+rm --recursive /home/user/somedir
+
+# remove empty directories
+rm -d /home/user/somedir
+rm --dir /home/user/somedir
+
