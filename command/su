@@ -1,0 +1,5 @@
+# become root (type root password)
+su -
+
+# become a user
+su - user
