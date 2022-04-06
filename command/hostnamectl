@@ -1,0 +1,5 @@
+# get current hostname info
+hostnamectl
+
+# change hostname
+hostnamectl set-hostname MyName
