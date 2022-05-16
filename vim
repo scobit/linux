@@ -43,3 +43,8 @@ then n or N
 
 # substitude values
 :%s/old/new
+
+# vimrc
+set autoindent
+set noautoindent
+set all
