@@ -1,0 +1,4 @@
+# запрос и ответ только с заголовками
+curl -I http://localhost
+curl --head http://localhost
+
