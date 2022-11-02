@@ -58,7 +58,7 @@ LVM-тома расширяются на лету, даже для корнев�
 `df -hT`
 
 #### ext2/ext3/ext4
-`resize2fs /dev/mapper/ubuntu--vg-ubuntu--l`
+`resize2fs /dev/mapper/ubuntu--vg-ubuntu--lv`
 
 #### XFS
 `xfs_growfs /dev/sda2`
