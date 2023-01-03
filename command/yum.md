@@ -6,6 +6,6 @@ https://ostechnix.com/download-rpm-package-dependencies-centos/
 
 yum install yum-plugin-downloadonly
 
-yum install --downloadonly --downloaddir=<directory> <package-name> <package-name>
+yum install --downloadonly --downloaddir=directory package-name package-name
 
-yum -y install /<directory>
+yum -y install /directory
